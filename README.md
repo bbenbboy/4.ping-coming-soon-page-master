@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github] (https://github.com/bbenbboy/4.ping-coming-soon-page-master.git)
+- Solution URL: [Github](https://github.com/bbenbboy/4.ping-coming-soon-page-master.git)
 - Live Site URL: [Vercel](https://4-ping-coming-soon-page-master.vercel.app/)
 
 ## My process
