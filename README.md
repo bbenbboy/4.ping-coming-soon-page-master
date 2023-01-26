@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bbenbboy/4.ping-coming-soon-page-master.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github] (https://github.com/bbenbboy/4.ping-coming-soon-page-master.git)
+- Live Site URL: [Vercel](https://4-ping-coming-soon-page-master.vercel.app/)
 
 ## My process
 
